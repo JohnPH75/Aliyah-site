@@ -1029,13 +1029,13 @@ div.pp_default .pp_details {
 }
 
 #ladybug	{
-	width: 70px;
-	height: 37px;
+	width: 91px;
+	height: 103px;
 	background: url(../images/ladybug.png) no-repeat;
 	background-size: cover;
 	position: absolute;
-	top: -42px;
-	left: 30px;
+	top: -101px;
+	left: 31px;
 }
 
 #butterfly	{
