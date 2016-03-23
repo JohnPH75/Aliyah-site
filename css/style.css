@@ -1029,12 +1029,12 @@ div.pp_default .pp_details {
 }
 
 #ladybug	{
-	width: 91px;
-	height: 103px;
+	width: 115px;
+	height: 131px;
 	background: url(../images/ladybug.png) no-repeat;
 	background-size: cover;
 	position: absolute;
-	top: -101px;
+	top: -126px;
 	left: 31px;
 }
 
