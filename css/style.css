@@ -49,6 +49,11 @@ h2	{
 	color: #fff;
 }
 
+p{
+    font-weight: bolder;
+    font-size: x-large;
+}
+
 .img-margin	{
 	margin: 18px 0;
 }
@@ -147,9 +152,11 @@ nav ul .active a	{
 .button	{
 	border-radius: 4px;
 	box-shadow: 1px 1px 0 #7d7d7d;
-	padding: 7px 10px;
+	padding: 0px 9px;
 	color: #fff;
 	margin-bottom: 20px;
+    font-weight: bolder;
+    font-size: x-large;
 }
 
 .button span	{
