@@ -1404,7 +1404,13 @@ only screen and (min-device-pixel-ratio:1.5) {
 	}
 	#sun	{
 		background: url(../images/sun2x.png) no-repeat;
-		background-size: 100% auto;
+        background-size: 100% auto;
+        position: absolute;
+        top: -15px;
+        left: 301px;
+        width: 23%;
+        height: 100%;
+        z-index: 1;
         
 	}
 	#ladybug	{
